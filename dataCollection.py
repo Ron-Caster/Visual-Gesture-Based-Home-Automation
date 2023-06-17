@@ -50,5 +50,5 @@ while True:
     key = cv2.waitKey(1)
     if key == ord("s"):
         counter += 1
-        cv2.imwrite(f'{folder}/Image_{stime.time()}.jpg',imgWhite)
+        cv2.imwrite(f'{folder}/Image_{time.time()}.jpg',imgWhite)
         print(counter)
