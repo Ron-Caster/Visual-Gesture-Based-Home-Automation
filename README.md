@@ -3,7 +3,9 @@ My Final Year Project.
 
 Is uses:
 -mediapipe
+
 -tensorflow
+
 -numpy
 
 Developed on: Python
